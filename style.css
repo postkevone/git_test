@@ -1,20 +1,14 @@
-.red {
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    background-color: rgb(255, 146, 146);
-    color: rgb(24, 24, 24);
+.but1,
+.but2 {
+    font-size: 28px;
+    font-family: Helvetica, "Timer New Roman", sans-serif;
 }
 
-#n2 {
-    color: rgb(18, 18, 204);
-    font-size: 36px;
+.but1 {
+    background-color: black;
+    color: white;
 }
 
-.n3 {
-    font-size: 24px;
-}
-
-#n4 {
-    background-color: rgb(28, 200, 28);
-    font-size: 24px;
-    font-weight: bold;
+.but2 {
+    background-color: yellow;
 }
