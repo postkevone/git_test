@@ -1,2 +1,3 @@
 # odin course
-test
+
+Repository used for odin projects.
