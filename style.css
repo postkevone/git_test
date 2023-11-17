@@ -1,42 +1,28 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  .para,
-  .small-para {
-    color: hsl(0, 0%, 0%);
-    font-weight: 800;
-  }
+  max-width: 600px;
+  margin: 0 auto;
+}
 
-  .para {
-    font-size: 22px;
-  }
+.one {
+  background: pink;
+  border: 3px solid blue;
+  /* CHANGE ME */
+  padding: 32px;
+  margin: 12px;
+}
 
-  .small-para {
-    font-size: 14px;
-    font-weight: 800;
-  }
-  
-  .button {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    font-size: 20px;
-  }
+.two {
+  background: lightblue;
+  border: 3px solid purple;
+  /* CHANGE ME */
+  margin-bottom: 48px;
+}
 
-  .confirm {
-    background: green;
-    color: white;
-    font-weight: bold;
-  } 
-  
-  .text.child {
-    color: rgb(0, 0, 0);
-    font-weight: 800;
-    font-size: 14px;
-  }
-  
-  div.text {
-    color: rgb(0, 0, 0);
-    font-size: 22px;
-    font-weight: 100;
-  }
+.three {
+  background: peachpuff;
+  border: 3px solid brown;
+  width: 200px;
+  /* CHANGE ME */
+  padding: 32px;
+  margin-left: 300px;
+}
